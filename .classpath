@@ -61,5 +61,10 @@
 	<classpathentry kind="lib" path="lib/junit/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="lib" path="lib/junit/hamcrest-library-1.3.jar"/>
 	<classpathentry kind="lib" path="lib/junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/groovy-2.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/groovy-json-2.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/groovy-xml-2.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/commons-compress-1.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/commons-lang3-3.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
