@@ -54,5 +54,9 @@
 	<classpathentry kind="lib" path="lib/mongo/mongo-java-driver-3.4.2.jar"/>
 	<classpathentry kind="lib" path="lib/mongo/mongodb-driver-3.4.2.jar"/>
 	<classpathentry kind="lib" path="lib/mongo/mongodb-driver-core-3.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/json-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/rest-assured-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/rest-assured-common-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/restassured/xml-path-3.0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
